@@ -25,7 +25,7 @@ To use the EufyClean class, you need to initialize it with your Eufy account cre
 ```js
 import { EufyClean } from './src/eufy-clean';
 
-const eufyClean = new EufyClean('your-email@example.com', 'your-password');
+const eufyClean = new EufyClean('ishaq.zerrouaticin@gmail.com', 'Zebi@2030');
 await eufyClean.init();
 ```
 
